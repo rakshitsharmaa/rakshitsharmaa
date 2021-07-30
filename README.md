@@ -1,12 +1,15 @@
-### Hi there 👋
+### Hi there welcome to my github profile👋
+I'm Rakshit sharma , and I am a Full stack web developer. I enjoy doing competitive programming and spend most of my time grinding on Codechef and Codeforces, apart from all of that i like to work on MERN projects and designing web components.
 
+
+
+- 🔭 I’m currently working on E-Comerce Full stack web app
 <!--
 **rakshitsharmaa/rakshitsharmaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning ..
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
