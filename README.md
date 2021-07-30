@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Rakshit, and I am a Full Stack web developer. I enjoy doing competitive programming and spend most of my time grinding on Codeforces and Hackerearth, apart from all of that i like to work on Full Stack Web Applications and designing web components.  
+I'm Rakshit, and I am a Full Stack web developer. I enjoy doing competitive programming and spend most of my time grinding on CodeChef,Codeforces and Hackerearth, apart from all of that i like to work on Full Stack Web Applications and designing web components.  
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakshitsharmaa&label=Profile%20views&color=0e75b6&style=flat" alt="rakshitsharmaa" /> </p>
