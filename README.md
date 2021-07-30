@@ -1,111 +1,80 @@
-<p align="center">
- <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
- <h2 align="center">GitHub Readme Stats</h2>
- <p align="center">Get dynamically generated GitHub stats on your readmes!</p>
-</p>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats/actions">
-      <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
-    </a>
-    <a href="https://codecov.io/gh/anuraghazra/github-readme-stats">
-      <img src="https://codecov.io/gh/anuraghazra/github-readme-stats/branch/master/graph/badge.svg" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats/issues">
-      <img alt="Issues" src="https://img.shields.io/github/issues/anuraghazra/github-readme-stats?color=0088ff" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats/pulls">
-      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/anuraghazra/github-readme-stats?color=0088ff" />
-    </a>
-    <br />
-    <br />
-    <a href="https://a.paddle.com/v2/click/16413/119403?link=1227">
-      <img src="https://img.shields.io/badge/Supported%20by-VSCode%20Power%20User%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
-    </a>
-    <a href="https://a.paddle.com/v2/click/16413/119403?link=2345">
-      <img src="https://img.shields.io/badge/Supported%20by-Node%20Cli.com%20%E2%86%92-gray.svg?colorA=61c265&colorB=4CAF50&style=for-the-badge"/>
-    </a>
-  </p>
+### Hi there 👋
 
-  <p align="center">
-    <a href="#demo">View Demo</a>
-    ·
-    <a href="https://github.com/anuraghazra/github-readme-stats/issues/new/choose">Report Bug</a>
-    ·
-    <a href="https://github.com/anuraghazra/github-readme-stats/issues/new/choose">Request Feature</a>
-  </p>
-  <p align="center">
-    <a href="/docs/readme_fr.md">Français </a>
-    ·
-    <a href="/docs/readme_cn.md">简体中文</a>
-    ·
-    <a href="/docs/readme_es.md">Español</a>
-    ·
-    <a href="/docs/readme_de.md">Deutsch</a>
-    ·
-    <a href="/docs/readme_ja.md">日本語</a>
-    ·
-    <a href="/docs/readme_pt-BR.md">Português Brasileiro</a>
-    ·
-    <a href="/docs/readme_it.md">Italiano</a>
-    ·
-    <a href="/docs/readme_kr.md">한국어</a>
-    .
-    <a href="/docs/readme_nl.md">Nederlands</a>
-    .
-    <a href="/docs/readme_np.md">नेपाली</a>
-    .
-    <a href="/docs/readme_tr.md">Türkçe</a>
-  </p>
-</p>
-<p align="center">Love the project? Please consider <a href="https://www.paypal.me/anuraghazra">donating</a> to help it improve!
+I'm Rakshit, and I am a Full Stack web developer. I enjoy doing competitive programming and spend most of my time grinding on Codeforces and Hackerearth, apart from all of that i like to work on Full Stack Web Applications and designing web components.  
 
 
-<p>
-<a href="https://indiafightscorona.giveindia.org">
-<img src="https://d2wvdrxmr8p0wf.cloudfront.net/static/giveindia.svg" alt="Give india logo" width="200" />
-</a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rakshitsharmaa&label=Profile%20views&color=0e75b6&style=flat" alt="rakshitsharmaa" /> </p>
 
-Are you considering to support the project by donating to me? Please DON'T!!  
+- 🔭 I’m currently working on Full Stack Web App **Foodie's Friend**
 
-Instead, Help India fight 2nd deadly wave of COVID,  
-Thousands of people are dying in India for lack of Oxygen & COVID related necessary infrastructure.  
+- 🌱 I’m currently learning **Node.js,Express.js,React.js,MongoDB**
 
-Visit [https://indiafightscorona.giveindia.org](https://indiafightscorona.giveindia.org) and make a small donation to help us fight covid and overcome this crisis.   
-Your small help goes a long way. :heart:
+- 📫 How to reach me **rakshitsharma268@gmail.com**
+
+
+
+
+#### TOP TECHNOLOGIES
+
+<!-- TODO: Make technologies links takes you to repositories -->
+
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
+[![Express Badge](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)](#)
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) 
+
+
+#### COMPETITIVE CODING PROFILES
+[<img align="left" alt="CodeChef" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" />][codechef]
+[<img align="left" alt="Codeforce" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" />][codeforces]
+<a href="https://www.leetcode.com/rakshitsharmaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rakshitsharmaa" height="30" width="40" /></a>
+[<img align="left" alt="Hackerearth" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/e/e8/HackerEarth_logo.png" />][hackerearth]
+[<img align="left" alt="HackerRank" width="32px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands-1/512/160_Hackerrank_logo_logos-512.png" />][hackerrank]
+
+#### VISTORS 
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=rakshitsharmaa.rakshitsharmaa)
+
+
+
+
+
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/rakshitsharmaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rakshitsharmaa" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-# Features
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rakshitsharmaa&show_icons=true&locale=en&layout=compact" alt="rakshitsharmaa" /></p>
 
-- [GitHub Stats Card](#github-stats-card)
-- [GitHub Extra Pins](#github-extra-pins)
-- [Top Languages Card](#top-languages-card)
-- [Wakatime Week Stats](#wakatime-week-stats)
-- [Themes](#themes)
-- [Customization](#customization)
-  - [Common Options](#common-options)
-  - [Stats Card Exclusive Options](#stats-card-exclusive-options)
-  - [Repo Card Exclusive Options](#repo-card-exclusive-options)
-  - [Language Card Exclusive Options](#language-card-exclusive-options)
-  - [Wakatime Card Exclusive Option](#wakatime-card-exclusive-options)
-- [Deploy Yourself](#deploy-on-your-own-vercel-instance)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rakshitsharmaa&show_icons=true&locale=en" alt="rakshitsharmaa" /></p>
 
-# GitHub Stats Card
 
-Copy-paste this into your markdown content, and that's it. Simple!
 
-Change the `?username=` value to your GitHub's username.
 
-```md
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-```
 
-_Note: Available ranks are S+ (top 1%), S (top 25%), A++ (top 45%), A+ (top 60%), and B+ (everyone).
-The values are calculated by using the [cumulative distribution function](https://en.wikipedia.org/wiki/Cumulative_distribution_function) using commits, contributions, issues, stars, pull requests, followers, and owned repositories.
-The implementation can be investigated at [src/calculateRank.js](./src/calculateRank.js)_
 
-### Hiding individual stats
 
-To hide any specific stats, you can pass a query parameter `?hide=` with comma-separated values.
 
-> Options: `&hide=stars,commits,prs,issues,contribs`
+[codechef]: https://www.codechef.com/users/rakshitsharmaa
+[codeforces]: https://codeforces.com/profile/rakshitkumarsharmaa
+[hackerearth]: https://www.hackerearth.com/@rakshitsharma268
+[hackerrank]: https://www.hackerrank.com/rakshitsharma268
+[C]: https://en.wikipedia.org/wiki/C_(programming_language)
+[cpp]: https://isocpp.org/
+[react]: https://reactjs.org/
+[firebase]: https://firebase.google.com/
+[heroku]: https://dashboard.heroku.com/
+[sass]: https://sass-lang.com/
+[css]: https://developer.mozilla.org/en-US/docs/Web/CSS
+[js]: https://javascript.info/
+[redux]: https://redux.js.org/
+[express]: https://expressjs.com/
+[mongodb]: https://www.mongodb.com/
+[node]: https://nodejs.org/en/
+[github]: https://github.com/
+[git]: https://git-scm.com/
+[html]: https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5
