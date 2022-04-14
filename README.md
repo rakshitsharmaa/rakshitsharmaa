@@ -26,7 +26,7 @@ I'm Rakshit, and I am a Full Stack web developer. I enjoy doing competitive prog
 #### COMPETITIVE CODING PROFILES
 [<img align="left" alt="CodeChef" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" />][codechef]
 [<img align="left" alt="Codeforce" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" />][codeforces]
-<a href="https://www.leetcode.com/rakshitsharmaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rakshitsharmaa" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/rakshitsharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rakshitsharmaa" height="30" width="40" /></a>
 [<img align="left" alt="Hackerearth" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/e/e8/HackerEarth_logo.png" />][hackerearth]
 [<img align="left" alt="HackerRank" width="32px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands-1/512/160_Hackerrank_logo_logos-512.png" />][hackerrank]
 
